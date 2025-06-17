@@ -24,6 +24,8 @@ This project predicts the **podium finishers** for the 2025 Monaco Grand Prix us
 - `scikit-learn`
 - `requests`
 
+---
+
 ## 🏁 Predicted 2025 Monaco GP Winner 🏁
 
   Driver     PredictedRaceTime (s)
